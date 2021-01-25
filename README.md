@@ -25,3 +25,7 @@ Some examples:
 `holidates Belgium 2022`
 
 `holidates italy 2019`
+
+## Maintainer
+
+[Alan Massaro](https://github.com/macmowl/)
