@@ -1,5 +1,5 @@
 {
-  "name": "holidates",
+  "name": "@macmowl/holidates",
   "version": "1.0.0",
   "description": "Enter a year and it'll give you the legal holidays.",
   "main": "index.js",
