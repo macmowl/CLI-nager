@@ -2,7 +2,7 @@
 
 Display annual holidays of any country.
 
-![Holidates screen](https://github.com/macmowl/CLI-nager/edit/main/Holidates.png)
+![Holidates screen](https://github.com/macmowl/CLI-nager/main/Holidates.png)
 
 ## Install
 
