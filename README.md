@@ -19,3 +19,9 @@ to get annual holidays for this country and the current year.
 Holidates is able to add a specific year:
 
 `holidates <country> <year>`
+
+Some examples:
+
+`holidates Belgium 2022`
+
+`holidates italy 2019`
