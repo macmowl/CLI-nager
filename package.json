@@ -1,0 +1,28 @@
+{
+  "name": "holidates",
+  "version": "1.0.0",
+  "description": "Enter a year and it'll give you the legal holidays.",
+  "main": "index.js",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macmowl/CLI-nager.git"
+  },
+  "author": "Alan Massaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macmowl/CLI-nager/issues"
+  },
+  "homepage": "https://github.com/macmowl/CLI-nager#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.5.0"
+  }
+}
